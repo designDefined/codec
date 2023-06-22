@@ -1,0 +1,16 @@
+.Block {
+  width: 100%;
+  min-height: 500px;
+  background: red;
+}
+.Paragraph {
+  width: 100%;
+  background: blue;
+  font-size: 32px;
+}
+.Chunk {
+  display: inline-block;
+  width: auto;
+  background: green;
+  min-width: 10px;
+}

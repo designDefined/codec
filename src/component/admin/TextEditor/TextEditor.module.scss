@@ -1,0 +1,16 @@
+.TextEditor {
+  width: 100%;
+  min-height: 500px;
+  background: red;
+  .paragraph {
+    width: 100%;
+    background: blue;
+    font-size: 32px;
+  }
+  .chunk {
+    display: inline-block;
+    width: auto;
+    background: green;
+    min-width: 10px;
+  }
+}
